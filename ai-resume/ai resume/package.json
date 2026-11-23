@@ -1,0 +1,19 @@
+{
+  "name": "ai-resume-maker",
+  "version": "1.0.0",
+  "description": "AI-Powered Resume Builder & ATS Optimizer with Live Preview and Multi-Format Export",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "ai",
+    "resume-maker",
+    "ats-optimizer",
+    "resume-builder",
+    "cv-generator"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
